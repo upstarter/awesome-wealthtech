@@ -2,7 +2,7 @@
 > A curated list of awesome wealthtech resources for technical quant traders and investors [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 <div align="center">
-  <img width="800" height="250" src="media/awesome-wealthtech.png" alt="Awesome WealthTech">
+  <img width="1000" height="280" src="media/awesome-wealthtech.png" alt="Awesome WealthTech">
   <br>
   <h4>
     Check out my open source project <a href="https://github.com/upstarter/automata">Automata</a> for building trading systems. Please feel free to contribute.
