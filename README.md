@@ -13,13 +13,9 @@
   <a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;
 </p> -->
 
-<br>
-
 <div align="center">
   <b>Follow the <a href="https://twitter.com/CryptoWiseAI">CryptoWise.ai Twitter account</a> for updates on the crypto ecosystem.</b>
 </div>
-
-<br>
 
 <p align="center">
   <sub>Check out my <a href="https://ericsteen.dev">blog</a> and follow me on <a href="https://twitter.com/CryptoWiseAI">Twitter</a>.</sub>
