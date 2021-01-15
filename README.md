@@ -27,9 +27,10 @@
 # awesome-wealthtech
 Awesome list of wealthtech resources for quant traders and investors
 
-## Contents
+- Awesome WealthTech
   - [Tech Friendly Trading Platforms](#tech-friendly-trading-platforms)
   - [Financial API's and Data Services](#financial-apis-and-data-services)
+  - [Crowdfunding](#crowdfunding)
   - [Charting](#charting)
     - [Trading View](#trading-view)
   - [Programming Languages used in Finance](#programming-languages)
@@ -43,16 +44,24 @@ Awesome list of wealthtech resources for quant traders and investors
       - [Matlab](#matlab)
   - [Artificial Intelligence Tools](#ai-tools)
     - [Automata](#automata)
-  - [Theory](#theory)
+  - [Cryptoassets](#cryptoassets)
+  - [Portfolio Theory](#portfolio-theory)
+  - [Quant Methods](#quant-methods)
   - [Books](#books)
   - [Media](#media)
   - [Learn](#learn)
-  - [Security](#security)
+  - [Security Concerns](#security-concerns)
 
 ## Tech Friendly Trading Platforms
-  - [Robinhood](#robinhood)
   - [Think or Swim](#think-or-swim)
   - [Interactive Brokers](#interactive-brokers)
+  - [Robinhood](#robinhood)
+  - [WeBull](#webull)
+  - [eToro](#etoro)
+  - [M1 Finance](#m1)
+  - [Stash](#stash)
+  - [Acorns](#acorns)
+  - [Betterment](#betterment)
 
 ## Financial API's and Data Services
 - [Quandle](#quandle)
@@ -66,6 +75,7 @@ Awesome list of wealthtech resources for quant traders and investors
 - [Zacks](#zcharts)
 - [twelvedata](#twelvedata)
 - [Intrinio](#intrinio)
+
 
 ## Programming Languages used in Finance
 - [General Purpose](#general-purpose)
