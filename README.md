@@ -1,6 +1,5 @@
 # Awesome WealthTech [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome wealthtech resources for technical quant traders and investors [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
-
+> A curated list of awesome wealthtech resources for technical quant traders and investors
 <div align="center">
   <img width="1000" height="280" src="media/awesome-wealthtech.png" alt="Awesome WealthTech">
   <br>
