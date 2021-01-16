@@ -41,7 +41,7 @@
     - [Financial Statements](#financial-statements)
     - [Macroeconomics](#macro-economics)
       - [Macroeconomic Indicators](#macro-economic-indicators)
-        - [Big Four Indicators](#big-four)
+        - [Big Four "Fed Preferred" Indicators](#big-four-fed-preferred-indicators)
           - [Unemployment](#unemployment-indicators)
           - [Real Income](#real-income-indicators)
           - [Industrial Production Index](#industrial-production-indicators)
@@ -92,8 +92,19 @@
     - [Fundamental Analysis Books](#fundamental-analysis-books)
 
   - [Media](#media)
-    - [YouTube](#media-youtube)
-    - [Discord](#media-discord)
+    - [Social Media]
+      - [YouTube](#media-youtube)
+      - [Discord](#media-discord)
+      - [DataGraphics](#data-graphics)
+        - [Visual Capitalist](#visual-capitalist)
+
+    - [News](#news-media)
+      - [Wall Street Journal](#wsj)
+      - [Bloomberg](#bloomberg)
+      - [Reuters](#reuters)
+      - [Yahoo Finance](#yahoo-finance)
+  - [Blogs](#blogs)
+    - [Abnormal Returns](#abnormal-returns)
 
   - [Learn](#learn)
 
