@@ -27,8 +27,9 @@
   - [Trading Platforms](#trading-platforms)
     - [Free Trading](#free-trading)
     - [Discount Trading](#discount-trading)
-    - [Social](#social-trading)
     - [Robo Investing](#robo-investing)
+    - [Social](#social-trading)
+    - [General Stock & Options](#general-stock-and-options)
 
   - [Financial API's and Data Services](#financial-apis-and-data-services)
 
@@ -39,6 +40,28 @@
   - [Fundamental Analysis](#fundamental-analysis)
     - [Financial Statements](#financial-statements)
     - [Macroeconomics](#macro-economics)
+      - [Macroeconomic Indicators](#macro-economic-indicators)
+        - [Big Four Indicators](#big-four)
+          - [Unemployment](#unemployment-indicators)
+          - [Real Income](#real-income-indicators)
+          - [Industrial Production Index](#industrial-production-indicators)
+          - [Real Retail Sales](#real-retail-sales-indicators)
+        - [Conference Board Leading Indicators](#conf-board-leading-indicators)
+          - [Leading Indicators](#leading-indicators)
+          - [Average weekly hours, manufacturing](#weekly-hours-indicator)
+          - [Average weekly initial claims for unemployment insurance](#weekly-claims-indicator)
+          - [Manufacturers’ new orders, consumer goods and materials](#new-orders-indicator)
+          - [ISM® Index of New Orders](#ism-new-orders-indicator)
+          - [Manufacturers’ new orders, nondefense capital goods excluding aircraft orders](#new-orders-ex-air-indicator)
+          - [Building permits, new private housing units](#building-permits-indicator)
+          - [Stock prices, 500 common stocks](#stock-price-indicator)
+          - [Leading Credit Index™](#leasing-credit-indicator)
+          - [Interest rate spread, 10-year Treasury bonds less federal funds](#interest-rate-indicator)
+          - [Average consumer expectations for business conditions](#consumer-expectations-indicator)
+          - [Auto Sales]
+        - [Lagging Indicators](#lagging-indicators)
+        - [Coincident Indicators](#coincident-indicators)
+      - [Fed Activities]
     - [Microeconomics](#micro-economics)
 
   - [Programming Languages used in Finance](#programming-languages)
@@ -83,10 +106,7 @@
 - [Robinhood](#robinhood)
 ### Discount Trading
 - [Interactive Brokers](#interactive-brokers)
-### Advanced Options
-- [Think or Swim](#think-or-swim)
-- [Tasty Trade](#tasty-trade)
-### Social
+### Social Trading
 - [WeBull](#webull)
 - [eToro](#etoro)
 ### Robo Investing
@@ -94,6 +114,13 @@
 - [Stash](#stash)
 - [Acorns](#acorns)
 - [Betterment](#betterment)
+### General Stock & Options
+- [Etrade](#etrade)
+- [TD Ameritrade](#td-ameritrade)
+- [TradeStation](#trade-station)
+- [Charles Schwab](#charles-schwab)
+- [Think or Swim](#think-or-swim)
+- [Tasty Trade](#tasty-trade)
 
 ## Financial API's and Data Services
   - [Quandle](#quandle)
@@ -115,6 +142,8 @@
 
 ## Fundamental Analysis
 ### Financial Statements
+### Macroeconomics
+### Microeconomics
 
 ## Programming Languages used in Finance
 ### General Purpose
