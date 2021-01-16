@@ -45,13 +45,7 @@
 
   - [Programming Languages used in Finance](#programming-languages)
     - [General Purpose](#general-purpose)
-      - [Python](#python-lang)
-      - [C++](#c++)
-      - [Elixir & Erlang](#elixir-lang)
     - [Statistical & Mathematical](#statistical-and-mathematical-languages)
-      - [Julia](#julia-lang)
-      - [R](#r-lang)
-      - [Matlab](#matlab)
     - [Platform Specific](#platform-specific-languages)
 
   - [AI Trading Tools](#ai-tools)
@@ -137,37 +131,47 @@
 ## Fundamental Analysis
 ### Financial Statements
 ### Macroeconomics
+#### Sectors of the Macroeconomy
+  - [Tech](www.github.com/upstarter/automata)
+  - [Healthcare](www.github.com/upstarter/automata)
 #### Macroeconomic Indicators
 ##### Big Four "Fed Preferred" Indicators
     - [Unemployment](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
-    - [Real Income](www.x.com)
-    - [Industrial Production Index](www.x.com)
-    - [Real Retail Sales](www.x.com)
-  - [Conference Board Leading Indicators](www.x.com)
-    - [Leading Indicators](www.x.com)
-    - [Average weekly hours, manufacturing](www.x.com)
-    - [Average weekly initial claims for unemployment insurance](www.x.com)
-    - [Manufacturers’ new orders, consumer goods and materials](www.x.com)
-    - [ISM® Index of New Orders](www.x.com)
-    - [Manufacturers’ new orders, nondefense capital goods excluding aircraft orders](www.x.com)
-    - [Building permits, new private housing units](www.x.com)
-    - [Stock prices, 500 common stocks](www.x.com)
-    - [Leading Credit Index™](www.x.com)
-    - [Interest rate spread, 10-year Treasury bonds less federal funds](www.x.com)
-    - [Average consumer expectations for business conditions](www.x.com)
-    - [Auto Sales](www.x.com)
-  - [Lagging Indicators](www.x.com)
-  - [Coincident Indicators](www.x.com)
-- [Fed Activities](www.x.com)
+    - [Real Income](www.github.com/upstarter/automata)
+    - [Industrial Production Index](www.github.com/upstarter/automata)
+    - [Real Retail Sales](www.github.com/upstarter/automata)
+  - [Conference Board Leading Indicators](www.github.com/upstarter/automata)
+    - [Leading Indicators](www.github.com/upstarter/automata)
+    - [Average weekly hours, manufacturing](www.github.com/upstarter/automata)
+    - [Average weekly initial claims for unemployment insurance](www.github.com/upstarter/automata)
+    - [Manufacturers’ new orders, consumer goods and materials](www.github.com/upstarter/automata)
+    - [ISM® Index of New Orders](www.github.com/upstarter/automata)
+    - [Manufacturers’ new orders, nondefense capital goods excluding aircraft orders](www.github.com/upstarter/automata)
+    - [Building permits, new private housing units](www.github.com/upstarter/automata)
+    - [Stock prices, 500 common stocks](www.github.com/upstarter/automata)
+    - [Leading Credit Index™](www.github.com/upstarter/automata)
+    - [Interest rate spread, 10-year Treasury bonds less federal funds](www.github.com/upstarter/automata)
+    - [Average consumer expectations for business conditions](www.github.com/upstarter/automata)
+    - [Auto Sales](www.github.com/upstarter/automata)
+  - [Lagging Indicators](www.github.com/upstarter/automata)
+  - [Coincident Indicators](www.github.com/upstarter/automata)
+- [Fed Activities](www.github.com/upstarter/automata)
 
 ### Microeconomics
 
 ## Programming Languages used in Finance
 ### General Purpose
-- [Python](#python)
-  - numpy
-  - scipy
-  - pandas
-  - scikit-learn
-  - Keras / TensorFlow
-  - XGBoost
+  - [Python](www.python.com)
+    - numpy
+    - scipy
+    - pandas
+    - scikit-learn
+    - Keras / TensorFlow
+    - XGBoost
+  - [C++](www.github.com/upstarter/automata)
+  - [Elixir & Erlang](www.github.com/upstarter/automata)
+- [Statistical & Mathematical](www.github.com/upstarter/automata)
+  - [Julia](www.github.com/upstarter/automata)
+  - [R](www.github.com/upstarter/automata)
+  - [Matlab](www.github.com/upstarter/automata)
+
