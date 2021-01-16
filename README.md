@@ -33,15 +33,23 @@
 
   - [Financial API's and Data Services](#financial-apis-and-data-services)
 
-  - [Technical Analysis](#technical-analysis)
-    - [Charting](#charting)
-    - [Backtesting](#backtesting)
+  - [Financial Analysis](#financial-analysis)
+    - [Technical Analysis](#technical-analysis) - The study of financial assets from a data and quantitative perspective
+      - [Quant Methods](#quant-methods)
+        - [Deep Learning](#deep-learning)
+        - [Monte Carlo Methods](#monte-carlo)
 
-  - [Fundamental Analysis](#fundamental-analysis)
-    - [Financial Statements](#financial-statements)
-    - [Macroeconomics](#macro-economics)
-      - [Macroeconomic Indicators](#macro-economic-indicators)
-    - [Microeconomics](#micro-economics)
+      - [Charting](#charting)
+      - [Backtesting](#backtesting)
+
+    - [Fundamental Analysis](#fundamental-analysis) - The study of financial assets from a macro and micro economic perspective
+      - [Financial Statements](#financial-statements)
+      - [Macroeconomics](#macro-economics)
+        - [Macroeconomic Indicators](#macro-economic-indicators)
+      - [Microeconomics](#micro-economics)
+
+    - [Quantamentalism](#quantamentalism) - The study of financial assets from a mix of quantitative and economic perspectives
+
 
   - [Programming Languages used in Finance](#programming-languages)
     - [General Purpose](#general-purpose)
@@ -50,11 +58,6 @@
 
   - [AI Trading Tools](#ai-tools)
     - [Automata](#automata)
-
-  - [Quant Methods](#quant-methods)
-    - [Deep Learning](#deep-learning)
-    - [Monte Carlo Methods](#monte-carlo)
-    - [Quantamentalism](#quantamentalism)
 
   - [Cryptoassets](#cryptoassets)
 
@@ -65,19 +68,9 @@
     - [Fundamental Analysis Books](#fundamental-analysis-books)
 
   - [Media](#media)
-    - [Social Media]
-      - [YouTube](#media-youtube)
-      - [Discord](#media-discord)
-      - [DataGraphics](#data-graphics)
-        - [Visual Capitalist](#visual-capitalist)
-
-    - [News](#news-media)
-      - [Wall Street Journal](#wsj)
-      - [Bloomberg](#bloomberg)
-      - [Reuters](#reuters)
-      - [Yahoo Finance](#yahoo-finance)
+    - [Social Media](#social-media)
+    - [Financial News](#financial-news)
   - [Blogs](#blogs)
-    - [Abnormal Returns](#abnormal-returns)
 
   - [Learn](#learn)
 
@@ -175,3 +168,16 @@
   - [R](www.github.com/upstarter/automata)
   - [Matlab](www.github.com/upstarter/automata)
 
+## Media
+### Social Media
+- [YouTube](#media-youtube)
+- [Discord](#media-discord)
+- [DataGraphics](#data-graphics)
+  - [Visual Capitalist](#visual-capitalist)
+### Financial News
+- [Wall Street Journal](#wsj)
+- [Bloomberg](#bloomberg)
+- [Reuters](#reuters)
+- [Yahoo Finance](#yahoo-finance)
+### Blogs
+- [Abnormal Returns](#abnormal-returns)
