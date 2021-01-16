@@ -114,32 +114,36 @@
 
 ## Trading Platforms
 ### Free Trading
-- [Robinhood](#robinhood)
+- [Robinhood](www.robinhood.com) - Trade without Transaction Fees
 ### Discount Trading
-- [Interactive Brokers](#interactive-brokers)
+- [Interactive Brokers](www.interactivebrokers.com) - Mature Discount Full Service Brokerage with developer API's
 ### Social Trading
-- [WeBull](#webull)
-- [eToro](#etoro)
+- [WeBull](www.webull.com)
+- [eToro](www.etoro.com)
 ### Robo Investing
-- [M1 Finance](#m1)
-- [Stash](#stash)
-- [Acorns](#acorns)
-- [Betterment](#betterment)
+- [M1 Finance](www.m1finance.com)
+- [Stash](www.stash.com)
+- [Acorns](www.acorns.com)
+- [Betterment](www.betterment.com)
 ### General Stock & Options
-- [Etrade](#etrade)
-- [TD Ameritrade](#td-ameritrade)
-- [TradeStation](#trade-station)
-- [Charles Schwab](#charles-schwab)
-- [Think or Swim](#think-or-swim)
-- [Tasty Trade](#tasty-trade)
+#### Stock & Options
+- [Etrade](www.etrade.com)
+- [TD Ameritrade](www.tdameritrade.com)
+- [TradeStation](www.tradestation.com) - Automated Investing Platform w/ proprietary scripting language
+- [Charles Schwab](www.charlesschwab.com)
+#### Advanced Options
+- [Think or Swim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- [TastyWorks](https://www.tastyworks.com/)
 
 ## Financial API's and Data Services
-  - [Quandle](#quandle)
+### Mass Market Data Services
   - [Yahoo Finance](#yahoo-finance)
   - [Bloomberg](#bloomberg)
   - [Capital IQ](#capital-iq)
   - [Reuters](#reuters)
   - [Google Finance](#google-finance)
+### High Tech Saavy Data Services
+  - [Quandle](#quandle)
   - [Xignite](#xignite)
   - [Ycharts](#ycharts)
   - [Zacks](#zcharts)
@@ -154,6 +158,29 @@
 ## Fundamental Analysis
 ### Financial Statements
 ### Macroeconomics
+#### Macroeconomic Indicators]
+##### Big Four "Fed Preferred" Indicators
+    - [Unemployment](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
+    - [Real Income](www.x.com)
+    - [Industrial Production Index](www.x.com)
+    - [Real Retail Sales](www.x.com)
+  - [Conference Board Leading Indicators](www.x.com)
+    - [Leading Indicators](www.x.com)
+    - [Average weekly hours, manufacturing](www.x.com)
+    - [Average weekly initial claims for unemployment insurance](www.x.com)
+    - [Manufacturers’ new orders, consumer goods and materials](www.x.com)
+    - [ISM® Index of New Orders](www.x.com)
+    - [Manufacturers’ new orders, nondefense capital goods excluding aircraft orders](www.x.com)
+    - [Building permits, new private housing units](www.x.com)
+    - [Stock prices, 500 common stocks](www.x.com)
+    - [Leading Credit Index™](www.x.com)
+    - [Interest rate spread, 10-year Treasury bonds less federal funds](www.x.com)
+    - [Average consumer expectations for business conditions](www.x.com)
+    - [Auto Sales](www.x.com)
+  - [Lagging Indicators](www.x.com)
+  - [Coincident Indicators](www.x.com)
+- [Fed Activities](www.x.com)
+
 ### Microeconomics
 
 ## Programming Languages used in Finance
