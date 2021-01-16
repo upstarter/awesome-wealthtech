@@ -28,7 +28,7 @@
     - [Free Trading](#free-trading)
     - [Discount Trading](#discount-trading)
     - [Robo Investing](#robo-investing)
-    - [Social](#social-trading)
+    - [Social Investing](#social-trading)
     - [General Stock & Options](#general-stock-and-options)
 
   - [Financial API's and Data Services](#financial-apis-and-data-services)
@@ -41,27 +41,6 @@
     - [Financial Statements](#financial-statements)
     - [Macroeconomics](#macro-economics)
       - [Macroeconomic Indicators](#macro-economic-indicators)
-        - [Big Four "Fed Preferred" Indicators](#big-four-fed-preferred-indicators)
-          - [Unemployment](#unemployment-indicators)
-          - [Real Income](#real-income-indicators)
-          - [Industrial Production Index](#industrial-production-indicators)
-          - [Real Retail Sales](#real-retail-sales-indicators)
-        - [Conference Board Leading Indicators](#conf-board-leading-indicators)
-          - [Leading Indicators](#leading-indicators)
-          - [Average weekly hours, manufacturing](#weekly-hours-indicator)
-          - [Average weekly initial claims for unemployment insurance](#weekly-claims-indicator)
-          - [Manufacturers’ new orders, consumer goods and materials](#new-orders-indicator)
-          - [ISM® Index of New Orders](#ism-new-orders-indicator)
-          - [Manufacturers’ new orders, nondefense capital goods excluding aircraft orders](#new-orders-ex-air-indicator)
-          - [Building permits, new private housing units](#building-permits-indicator)
-          - [Stock prices, 500 common stocks](#stock-price-indicator)
-          - [Leading Credit Index™](#leasing-credit-indicator)
-          - [Interest rate spread, 10-year Treasury bonds less federal funds](#interest-rate-indicator)
-          - [Average consumer expectations for business conditions](#consumer-expectations-indicator)
-          - [Auto Sales]
-        - [Lagging Indicators](#lagging-indicators)
-        - [Coincident Indicators](#coincident-indicators)
-      - [Fed Activities]
     - [Microeconomics](#micro-economics)
 
   - [Programming Languages used in Finance](#programming-languages)
@@ -117,7 +96,7 @@
 - [Robinhood](www.robinhood.com) - Trade without Transaction Fees
 ### Discount Trading
 - [Interactive Brokers](www.interactivebrokers.com) - Mature Discount Full Service Brokerage with developer API's
-### Social Trading
+### Social Investing
 - [WeBull](www.webull.com)
 - [eToro](www.etoro.com)
 ### Robo Investing
@@ -158,7 +137,7 @@
 ## Fundamental Analysis
 ### Financial Statements
 ### Macroeconomics
-#### Macroeconomic Indicators]
+#### Macroeconomic Indicators
 ##### Big Four "Fed Preferred" Indicators
     - [Unemployment](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
     - [Real Income](www.x.com)
