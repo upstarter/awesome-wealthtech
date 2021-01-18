@@ -35,11 +35,13 @@
 
   - [Financial Analysis](#financial-analysis)
     - [Technical Analysis](#technical-analysis) - The study of financial assets from a data and quantitative perspective
+
       - [Quant Methods](#quant-methods)
         - [Deep Learning](#deep-learning)
         - [Monte Carlo Methods](#monte-carlo)
 
       - [Charting](#charting)
+
       - [Backtesting](#backtesting)
 
     - [Fundamental Analysis](#fundamental-analysis) - The study of financial assets from a macro and micro economic perspective
@@ -50,19 +52,36 @@
 
     - [Quantamentalism](#quantamentalism) - The study of financial assets from a mix of quantitative and economic perspectives
 
+    - [Monte Carlo Methods](#monte-carlo-methods)
 
-  - [Programming Languages used in Finance](#programming-languages)
+    - [Machine Learning](#machine-learning)
+      - [Supervised Learning](#supervised-learning)
+        - [Linear Models](#linear-models)
+        - [Time Series Models for Volatility Forecasting](#time-series-models)
+        - [Random Forests](#random-forests)
+        - [Deep Learning](#deep-learning)
+      - [Unsupervised Learning](#unsupervised-learning)
+        - [Reinforcement Learning](#reinforcemnt-learning)
+          - [Bandit Algorithms](#bandit-algorithms)
+          - [Q-learning](#q-learning)
+          - [Deep Reinforcement Learning](#deep-reinforcement-learning)
+
+    - [AI Trading Tools](#ai-tools)
+      - [Automata](#automata)
+
+  - [Programming Languages and Frameworks used in Finance](#programming-languages)
     - [General Purpose](#general-purpose)
     - [Statistical & Mathematical](#statistical-and-mathematical-languages)
     - [Platform Specific](#platform-specific-languages)
 
-  - [AI Trading Tools](#ai-tools)
-    - [Automata](#automata)
+    - [Frameworks](#frameworks)
+      - [OpenAI Gym](#open-ai-gym)
+      - [Scikit-learn](#scikit-learn)
 
   - [Cryptoassets](#cryptoassets)
 
   - [Portfolio Theory](#portfolio-theory)
-
+  - [Portfolio Optimization](#portfolio-optimization)
   - [Books](#books)
     - [Technical Analysis Books](#technical-analysis-books)
     - [Fundamental Analysis Books](#fundamental-analysis-books)
@@ -103,18 +122,37 @@
 
 ## Financial API's and Data Services
 ### Mass Market Data Services
-  - [Yahoo Finance](#yahoo-finance)
+  - [yFinance (Yahoo finance)](#yahoo-finance)
   - [Bloomberg](#bloomberg)
   - [Capital IQ](#capital-iq)
   - [Reuters](#reuters)
   - [Google Finance](#google-finance)
 ### High Tech Saavy Data Services
   - [Quandle](#quandle)
+  - [Quantopian](#quantopian)
+  - [Zipline](#zipline)
+  - [Alpha Vantage](#alpha-vantage)
+  - [Alpha Trading Labs](#alpha-trading-labs)
   - [Xignite](#xignite)
   - [Ycharts](#ycharts)
   - [Zacks](#zcharts)
   - [twelvedata](#twelvedata)
   - [Intrinio](#intrinio)
+### Alternative Data
+  - [Web Scraping](#web-scraping)
+  - [Social Sentiment](#social-sentiment)
+  - [Satellite](#satellite)
+  - [GeoLocation](#geo-location)
+  - [Web Data and Traffic](#web-data-and-traffic)
+  - [Data Brokers](#data-brokers)
+  - [Infrastructure and Interfaces](#infrastructure-and-interfaces)
+  - [Consultants](#consultants)
+  - [Email and Consumer Receipts](#email-and-consumer-receipts)
+  - [Sell Side](#sell-side)
+  - [Public Data](#public-data)
+  - [App Usage](#app-usage)
+  - [Weather](#Weather)
+  - [Other](#other)
 
 ## Technical Analysis
 ### Charting
@@ -152,21 +190,40 @@
 
 ### Microeconomics
 
+## Machine Learning
+  - [Supervised Learning](www.github.com/upstarter/automata)
+    - [Linear Models](www.github.com/upstarter/automata)
+    - [Time Series Models for Volatility Forecasting](www.github.com/upstarter/automata)
+    - [Random Forests](www.github.com/upstarter/automata)
+    - [Deep Learning](www.github.com/upstarter/automata)
+      - [Pytorch](www.github.com/upstarter/automata)
+      - [Tensorflow/Keras](www.github.com/upstarter/automata)
+  - [Unsupervised Learning](www.github.com/upstarter/automata)
+    - [Reinforcement Learning](www.github.com/upstarter/automata)
+      - [Bandit Algorithms](www.github.com/upstarter/automata)
+      - [Q-learning](www.github.com/upstarter/automata)
+      - [Deep Reinforcement Learning](www.github.com/upstarter/automata)
 ## Programming Languages used in Finance
 ### General Purpose
   - [Python](www.python.com)
-    - numpy
-    - scipy
-    - pandas
-    - scikit-learn
-    - Keras / TensorFlow
-    - XGBoost
   - [C++](www.github.com/upstarter/automata)
   - [Elixir & Erlang](www.github.com/upstarter/automata)
 - [Statistical & Mathematical](www.github.com/upstarter/automata)
   - [Julia](www.github.com/upstarter/automata)
   - [R](www.github.com/upstarter/automata)
   - [Matlab](www.github.com/upstarter/automata)
+
+
+- [Frameworks](#frameworks)
+  - [OpenAI Gym](#open-ai-gym)
+  - [Scikit-learn](#scikit-learn)
+  - [Python Tools]
+    - [numpy](www.github.com/upstarter/automata)
+    - [scipy](www.github.com/upstarter/automata)
+    - [pandas](www.github.com/upstarter/automata)
+    - [scikit-learn](www.github.com/upstarter/automata)
+    - [Keras / TensorFlow](www.github.com/upstarter/automata)
+    - [XGBoost](www.github.com/upstarter/automata)
 
 ## Media
 ### Social Media
