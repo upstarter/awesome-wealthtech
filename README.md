@@ -162,9 +162,19 @@
 ## Fundamental Analysis
 ### Financial Statements
 ### Macroeconomics
-#### Sectors of the Macroeconomy
+#### Current Growth Sectors
   - [Tech](https://www.github.com/upstarter/automata)
   - [Healthcare](https://www.github.com/upstarter/automata)
+  - [Quantum Computing](https://www.github.com/upstarter/automata)
+  - [Biotech](https://www.github.com/upstarter/automata)
+  - [AI & Robotics](https://www.github.com/upstarter/automata)
+
+#### Current Value Sectors
+  - [Overseas Shipping](#overseas-shipping)
+  - [Basic Materials / Commodities](#commodities)
+  - [Travel](#travel)
+  - [Luxury Goods](#luxury-goods)
+
 #### Macroeconomic Indicators
 ##### Big Four "Fed Preferred" Indicators
     - [Unemployment](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
@@ -238,3 +248,5 @@
 - [Yahoo Finance](#yahoo-finance)
 ### Blogs
 - [Abnormal Returns](#abnormal-returns)
+- [The Capital Spectator](http://www.capitalspectator.com/)
+- [Meb Faber](https://mebfaber.com/)
