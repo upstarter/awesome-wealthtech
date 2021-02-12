@@ -181,7 +181,8 @@
     - [Real Income](https://www.github.com/upstarter/automata)
     - [Industrial Production Index](https://www.github.com/upstarter/automata)
     - [Real Retail Sales](https://www.github.com/upstarter/automata)
-  - [Conference Board Leading Indicators](https://www.github.com/upstarter/automata)
+##### Leading Indicators
+   - [Conference Board Leading Indicators](https://www.github.com/upstarter/automata)
     - [Leading Indicators](https://www.github.com/upstarter/automata)
     - [Average weekly hours, manufacturing](https://www.github.com/upstarter/automata)
     - [Average weekly initial claims for unemployment insurance](https://www.github.com/upstarter/automata)
