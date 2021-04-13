@@ -220,7 +220,7 @@
   - [C++](https://www.github.com/upstarter/automata)
   - [Elixir & Erlang](https://www.github.com/upstarter/automata)
 
-### [Statistical & Mathematical](https://www.github.com/upstarter/automata)
+### Statistical & Mathematical
   - [Julia](https://www.github.com/upstarter/automata)
   - [R](https://www.github.com/upstarter/automata)
   - [Matlab](https://www.github.com/upstarter/automata)
