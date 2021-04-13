@@ -219,13 +219,13 @@
   - [Python](www.python.com)
   - [C++](https://www.github.com/upstarter/automata)
   - [Elixir & Erlang](https://www.github.com/upstarter/automata)
-- [Statistical & Mathematical](https://www.github.com/upstarter/automata)
+
+### [Statistical & Mathematical](https://www.github.com/upstarter/automata)
   - [Julia](https://www.github.com/upstarter/automata)
   - [R](https://www.github.com/upstarter/automata)
   - [Matlab](https://www.github.com/upstarter/automata)
 
-
-- [Frameworks](#frameworks)
+### Frameworks
   - [OpenAI Gym](#open-ai-gym)
   - [Scikit-learn](#scikit-learn)
   - [Python Tools]
