@@ -177,10 +177,10 @@
 
 #### Macroeconomic Indicators
 ##### Big Four "Fed Preferred" Indicators
-    - [Unemployment](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
-    - [Real Income](https://www.github.com/upstarter/automata)
-    - [Industrial Production Index](https://www.github.com/upstarter/automata)
-    - [Real Retail Sales](https://www.github.com/upstarter/automata)
+  - [Unemployment](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
+  - [Real Income](https://www.github.com/upstarter/automata)
+  - [Industrial Production Index](https://www.github.com/upstarter/automata)
+  - [Real Retail Sales](https://www.github.com/upstarter/automata)
 ##### Leading Indicators
    - [Conference Board Leading Indicators](https://www.github.com/upstarter/automata)
     - [Leading Indicators](https://www.github.com/upstarter/automata)
