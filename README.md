@@ -236,6 +236,9 @@
     - [Keras / TensorFlow](https://www.github.com/upstarter/automata)
     - [XGBoost](https://www.github.com/upstarter/automata)
 
+## Portfolio Optimization
+  - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Portfolio Management App
+
 ## Media
 ### Social Media
 - [YouTube](#media-youtube)
