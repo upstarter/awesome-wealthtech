@@ -24,13 +24,6 @@
 
 ## Contents
 
-  - [Trading Platforms](#trading-platforms)
-    - [Free Trading](#free-trading)
-    - [Discount Trading](#discount-trading)
-    - [Robo Investing](#robo-investing)
-    - [Social Investing](#social-trading)
-    - [General Stock & Options](#general-stock-and-options)
-
   - [Financial API's and Data Services](#financial-apis-and-data-services)
 
   - [Financial Analysis](#financial-analysis)
@@ -96,29 +89,6 @@
   - [Security](#security)
 
   - [Crowdfunding](#crowdfunding)
-
-## Trading Platforms
-### Free Trading
-- [Robinhood](www.robinhood.com) - Trade without Transaction Fees
-### Discount Trading
-- [Interactive Brokers](www.interactivebrokers.com) - Mature Discount Full Service Brokerage with developer API's
-### Social Investing
-- [WeBull](www.webull.com)
-- [eToro](www.etoro.com)
-### Robo Investing
-- [M1 Finance](www.m1finance.com)
-- [Stash](www.stash.com)
-- [Acorns](www.acorns.com)
-- [Betterment](www.betterment.com)
-### General Stock & Options
-#### Stock & Options
-- [Etrade](www.etrade.com)
-- [TD Ameritrade](www.tdameritrade.com)
-- [TradeStation](www.tradestation.com) - Automated Investing Platform w/ proprietary scripting language
-- [Charles Schwab](www.charlesschwab.com)
-#### Advanced Options
-- [Think or Swim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- [TastyWorks](https://www.tastyworks.com/)
 
 ## Financial API's and Data Services
 ### Mass Market Data Services
