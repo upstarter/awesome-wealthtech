@@ -126,6 +126,7 @@
 
 ## Technical Analysis
 ### Charting
+- [Chartscout](#chartscout)
 - [Trading View](#trading-view)
 ### Backtesting
 
