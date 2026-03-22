@@ -206,6 +206,9 @@
     - [Keras / TensorFlow](https://www.github.com/upstarter/automata)
     - [XGBoost](https://www.github.com/upstarter/automata)
 
+## Investment Principles & Decision Frameworks
+- [Investment Principles Toolkit](https://github.com/henu-wang/investment-principles-toolkit) - Curated collection of investment principles, Python tools, and decision frameworks from Buffett, Munger, Graham, and more. Includes stock valuation scripts, portfolio trackers, behavioral finance checklists, and margin of safety calculators.
+
 ## Media
 ### Social Media
 - [YouTube](#media-youtube)
