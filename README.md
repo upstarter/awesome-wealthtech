@@ -108,6 +108,7 @@
   - [Zacks](#zcharts)
   - [twelvedata](#twelvedata)
   - [Intrinio](#intrinio)
+  - [AxionQuant](https://axionquant.com/)
 ### Alternative Data
   - [Web Scraping](#web-scraping)
   - [Social Sentiment](#social-sentiment)
