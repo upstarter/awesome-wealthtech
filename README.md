@@ -128,6 +128,7 @@
 ### Charting
 - [Trading View](#trading-view)
 ### Backtesting
+- [eStockes Reality Check](https://estockes.com/reality-check) — Browser-based historical test of a daily rule on one U.S. stock or ETF, with a same-symbol holding benchmark and disclosed execution assumptions.
 
 ## Fundamental Analysis
 ### Financial Statements
